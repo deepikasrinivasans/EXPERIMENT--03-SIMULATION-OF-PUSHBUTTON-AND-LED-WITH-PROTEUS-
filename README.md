@@ -121,12 +121,11 @@ void Error_Handler(void)
 ## LED ON:
  
  ![led on pm](https://user-images.githubusercontent.com/119393935/234458112-cf1de737-c91a-44c3-a577-6e011917522a.jpeg)
-
+## PROTEUS LAYOUT:
+![Uploading Screenshot 2023-06-09 135713.png…]()
 
 
  
-
-  
  
  ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
