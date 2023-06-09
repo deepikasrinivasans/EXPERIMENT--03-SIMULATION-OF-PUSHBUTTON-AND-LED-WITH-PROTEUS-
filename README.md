@@ -114,11 +114,11 @@ void Error_Handler(void)
 
 
 ## Output screen shots of proteus  :
- LED OFF:
+## LED OFF:
  
 ![led off](https://user-images.githubusercontent.com/119393935/234460918-fdba3550-cd61-4905-b7d0-de318aff0c21.jpeg)
  
- LED ON:
+## LED ON:
  
  ![led on pm](https://user-images.githubusercontent.com/119393935/234458112-cf1de737-c91a-44c3-a577-6e011917522a.jpeg)
 
